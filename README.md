@@ -1,6 +1,5 @@
 Hi 👋 My name is Mahmoud Etman
 
-✉️  You can contact me at [metman835@gmail.com](mailto:metman835@gmail.com)
 
 ### Skills
 
