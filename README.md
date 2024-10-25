@@ -1,5 +1,6 @@
 # 💫 About Me:
-I’m currently learning advanced techniques in machine learning, deep learning with PyTorch, and improving my skills in web scraping.
+I’m currently learning advanced techniques in machine learning, deep learning with PyTorch,
+and improving my skills in web scraping.
 
 
 ## 🌐 Socials:
