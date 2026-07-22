@@ -115,13 +115,7 @@ My focus is on understanding algorithms from first principles, building projects
 
 <!-- Replace YOUR_VERCEL_URL with your deployed github-readme-stats URL -->
 
-<p align="center">
-  <img src="https://YOUR_VERCEL_URL.vercel.app/api?username=ma74a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://YOUR_VERCEL_URL.vercel.app/api/top-langs/?username=ma74a&layout=compact&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ma74a&theme=catppuccin-macchiato)](https://git.io/streak-stats)
 
 ---
 
