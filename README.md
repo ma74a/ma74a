@@ -101,15 +101,6 @@ My focus is on understanding algorithms from first principles, building projects
 
 ---
 
-# 🏆 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/mahmoud_a21/">
-    <img src="https://leetcard.jacoblin.cool/mahmoud_a21?theme=dark&font=Karma&ext=heatmap" />
-  </a>
-</p>
-
----
 
 # 📊 GitHub Statistics
 
