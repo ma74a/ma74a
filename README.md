@@ -24,10 +24,6 @@
 
 ### 👨‍💻 About Me
 
-```text
-Computer Science Graduate → Machine Learning Engineer in progress
-```
-
 I build end-to-end Machine Learning & Computer Vision systems — from training deep models to deploying agentic AI applications.
 
 - 🧠 Deep Learning with **PyTorch**
